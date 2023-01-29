@@ -1,3 +1,5 @@
+[![Demo CI](https://github.com/jmandrake/multicloud_demo/actions/workflows/main.yml/badge.svg)](https://github.com/jmandrake/multicloud_demo/actions/workflows/main.yml)
+
 # multicloud_demo
 Demo project for continuous integration on AWS, GCP and Azure.
 
