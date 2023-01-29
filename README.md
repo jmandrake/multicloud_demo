@@ -23,3 +23,8 @@ touch requirements.txt
 touch hello.py
 touch test_hello.py
 ```
+
+
+
+## References
+- Follow along with this tutorial: [https://www.youtube.com/watch?v=Y3vzZjijsHU&list=PLdfopzFjkPz-w0oqPsl7Y0qNsKyQkrJjQ&index=4](https://www.youtube.com/watch?v=Y3vzZjijsHU&list=PLdfopzFjkPz-w0oqPsl7Y0qNsKyQkrJjQ&index=4)
