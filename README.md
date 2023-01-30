@@ -23,7 +23,12 @@ touch requirements.txt
 touch hello.py
 touch test_hello.py
 ```
-
+4) Clone this repo on all 3 cloud shells: 
+- AWS Cloudshell, GCP Cloud Shell, and Azure Cloud Shell
+- You may need to generate ssh keys: 
+-- ssh-keygen -t rsa
+-- cat ~/.ssh/id_rsa.pub and then paste it in Github > Account Settings > SSH Keys (Add new)
+-- You should now be able to clone the repository
 
 
 ## References
